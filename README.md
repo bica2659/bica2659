@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Blake
+# 👋 Hi, I'm Bica
 
 **Web3 Developer** building decentralized applications and smart contracts.
 
